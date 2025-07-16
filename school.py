@@ -1,0 +1,7 @@
+print("enter your schoolname")
+schoolname=input()
+print("enter your email address")
+emailaddress=input()
+print("enter your phone number")
+phonenumber=input()
+print("details" + " " + schoolname + " " + emailaddress + " " + phonenumber)
