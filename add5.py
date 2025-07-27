@@ -13,5 +13,6 @@ if c>10:
 else:
     d=c*10
     print(d)
+# write same code in function
 
 

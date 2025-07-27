@@ -11,3 +11,17 @@ if d>1000:
     print("greater than 1000")
 else:
     print("less than 1000")
+
+    #same program using function
+    def add():
+     a=6
+     b=7
+     c=8
+     d=(a*b*c)
+     print(d)
+    if d>1000:
+     print("greater than 1000")
+    else:
+     print("less than 1000")
+    add()
+     
